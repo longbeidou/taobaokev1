@@ -1,0 +1,76 @@
+body{background-color: #f6f6f6; }
+.left{padding-right: 0px;}
+.right{padding-left: 0px;}
+.borderRadius0{border-radius: 0px;}
+.logo{width:48px;}
+body,button, input, select, textarea, h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
+
+/*商品查询结果详情页*/
+.mainmargin{margin-top: 55px;}
+.sousuohead{width: 100%; background-color: #fff; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px;}
+.sousuobody{width: 100%; background-color: #fff; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px; margin-top: 10px; margin-bottom: 10px;}
+.chaxunrowmargin{margin-top: 0px;}
+.chaxunrowpadding{padding:5px 0px;}
+.sousuopage{width: 100%; background-color: #fff; margin-bottom: 15px;}
+.copy{margin-bottom: 10px;}
+.jumbotronbg{background-color: #f6f6f6;}
+.chaxunnav-bg{background-color: #ed2a7a;}
+.chaxunrowbox:hover {box-shadow: 0 0 3px 3px rgba(237,42,122,0.6) inset}
+
+
+/*分页导航*/
+.pagination>li>a{color: #ed2a7a;}
+.pagination>.active>span{border:1px solid #ed2a7a; background-color: #ed2a7a;}
+.pagination>.active>span:hover {background-color: rgba(237, 42, 122, 0.6);}
+
+/*商品列表用*/
+      /*公用*/
+      .bgwhiter{background-color: #fff;}
+      .font12{font-size: 12px;}
+      .font14{font-size: 14px;}
+      .marginbottom0{margin-bottom: 0;}
+      .paddinglr{padding-left: 0px;padding-right: 0px;}
+      /*导航*/
+/*.gactive{background-color: #ff472b; color: #fff;}
+.gactive a{color: #ff472b;}*/
+.fonttop{font-size: 12px; margin-bottom: 10px; padding-left: 0px; padding-right: 0px;}
+.fonttopimg{margin-bottom: 15px; margin-top: 5px;}
+.topcontainer{width: 100%; background-color: #fff; margin-top: 0px; padding-top: 14px;}
+.topnav{width: 100%; background-color: #ed2a7a;}
+.topnav2{margin-bottom: 0px; background-color: #ed2a7a; border-color: #ed2a7a;}
+.fenlei{margin-top:15px; padding:10px 20px;}
+.fenlei a, .tiaojian a{color:#333;}
+.fenlei a:hover, .tiaojian a:hover {color: #ed2a7a;}
+.tiaojian{margin-top: 15px; padding: 5px 20px 3px;}
+.tiaojian2{padding:0px 20px 5px;}
+.goodslist{margin-top: 1px; margin-bottom: 0px; padding: 10px 0px;}
+.ared{color: #ed2a7a;}
+.ared:hover{color: #717171; }
+.btn-red{color: #fff; background-color: #ed2a7a; border-color: #ed2a7a;}
+.btn-red:hover{font-weight: 800; color: #fff;}
+.form-control-add{border: 1px solid #ed2a7a;}
+.activenav{background-color: rgba(0, 0, 0, 0.17);}
+.navahover:hover{font-weight: 800;}
+.goodslist-fluid-add{padding-left: 0px; padding-right: 0px;}
+      /*商品格式*/
+      .gfontb{color:#333;}
+      .gfontr{color:#ed2a7a;}
+      .gfont18{font-size: 18px;}
+      .bordert{border-top-color: #efefef; border-top-style: solid; border-top-width: 1px;}
+      .borderb{border-bottom-color: #efefef; border-bottom-style: solid; border-bottom-width: 1px; }
+.goodsdiv{padding-top:5px; padding-bottom: 5px; padding-left: 4px; padding-right: 4px;}
+.goodsdiv:hover {box-shadow: 0 0 3px 3px rgba(237,42,122,0.6) inset}
+.gimg{border-width: 1px; border-color: #efefef; border-top-style: solid; border-left-style: solid; border-right-style: solid; padding-top:15px; padding-bottom: 5px;}
+.gtitle{border-width: 1px; border-color: #efefef; border-right-style: solid; border-left-style: solid; padding-bottom: 5px; height: 60px; overflow: hidden;}
+.gquan{border-width: 1px; border-color: #efefef; border-left-style: solid; border-right-style: solid; border-bottom-style: solid; padding-top:5px; padding-bottom: 5px;}
+.gxiaoliang{border-width: 1px; border-color: #efefef; border-left-style: solid; border-right-style: solid; border-bottom-style: solid; padding-top:5px; padding-bottom: 5px; padding-left: 0px;}
+.gyouhui{border-width: 1px; border-color: #efefef; border-left-style: solid; border-right-style: solid; padding-top: 5px; padding-bottom: 5px;}
+.gyouhuih{padding: 0px; margin: 0px;}
+.gyouhuic{padding: 0px; margin: 0px;}
+.gbuy{border-color:#efefef; border-width: 1px; border-left-style: solid; border-bottom-style: solid; border-right-style: solid; padding-top:5px; padding-bottom: 10px; }
+.ginfo{border-color:#efefef; border-width: 1px; border-right-style: solid; border-bottom-style: solid; padding-top:5px; padding-bottom: 10px;}
+.gtitle a:hover,.gbuy a:hover, .ginfo a:hover{color: #ed2a7a;}
+      /*商品列表底部*/
+.gfooter{padding-top:20px; padding-bottom: 20px;}
+
+
